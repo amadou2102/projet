@@ -1,0 +1,232 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: normal 100%;
+    color: #444444;
+    background-color: #f4f4f4;
+    padding: 0 0 2em 0;
+    margin: 0;
+}
+
+header{
+
+    background-color: white;
+    border-bottom: 3px dotted #ccc;
+    margin: 1px;
+    padding: 0 9em;
+
+}
+#entete{
+  font-size: 1.5em;
+   float: left;
+   color: #1aeecb;
+   position: relative;
+   left: 30%;
+} 
+
+header img{
+   position: relative;
+   left: -690px;
+    margin-right: 3em;
+    width:200px;
+    height: 200px;
+    border-radius: 100px;
+    
+}
+
+
+
+/* navigation*/
+
+nav{
+    background-color: #1aeecb;
+    height: 35px;
+}
+nav li{
+    float: left;
+    width: 170px;
+    height: 35px;
+    background-color: black;
+    text-align: center;
+    border-left: 1px solid white;
+    border-right: 1px solid white;
+    line-height: 35px;
+    list-style: none;
+   
+
+}
+nav li a{
+    color: white;
+    text-decoration: none;
+    display: block;
+}
+nav li a:hover{
+    background-color: #1aeecb;
+    color: white;
+}
+
+#main_aside{
+    margin-top: 5px;
+    float: left;
+    width: 300px;
+    background-color: #1aeecb;
+    padding:9px ;
+    color: white;
+    margin: 3px;
+}
+#main_aside img{
+    width: 50px;
+}
+
+
+
+
+/* index*/
+#guide{
+    float: left;
+    position: relative;
+    left: 400px;
+    top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+}
+
+
+
+/* competences*/
+section div{
+    
+    float: left;
+    width: 410px;
+}
+section div h1{
+    color: #1aeecb;
+}
+
+#competence  ul{
+   
+   float: left;
+   border-radius: 10px;
+  padding: 25px;
+    
+}
+#competence  ul li{
+   font-size: 18px;
+   font-family: 'Times New Roman', Times, serif;   
+ }
+
+#logicils  ul{ 
+    float: left;
+    border-radius: 10px;
+    padding: 25px;
+   
+     
+ }
+ #logicils  ul li{
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+     
+  }
+
+  #autre  ul{
+    
+    float: left;
+    border-radius: 10px;
+    padding: 25px;
+     
+ }
+ #autre  ul li{
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+     
+  }
+  
+  #lingustique  ul{
+    
+    float: left;
+    border-radius: 10px;
+    padding: 25px;
+     
+ }
+ #lingustique  ul li{
+   
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serif;
+     
+  }
+
+
+
+
+
+  /* contact*/
+
+form{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    float: left;
+    background-color: #1aeecb;
+    margin:5%;
+   position: relative;
+   left: 40%;
+   padding: 40px;
+   border-radius: 25px;
+}
+#formulaire{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    position: relative;
+    left: 40%;
+}
+#p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+   
+   
+}
+#resultat{
+    color: #f30e0e;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 14px;
+    font-style: normal;
+    
+}
+
+
+
+/* sport*/
+
+#sport{
+    float: left;
+    margin: 50px;
+}
+#sport img{
+    border-radius: 400px;
+    margin-right: 3em;
+    height: 300px;
+    width: 300px;
+
+
+}
+
+
+
+
+
+
+/* A PROPOS*/
+
+#apropos{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+#bibliographie1{
+    font-size: 20px;
+    
+  
+}
+
+#bibliographie2{
+    font-size: 20px;
+}
